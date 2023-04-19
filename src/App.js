@@ -2,7 +2,7 @@ import './App.css';
 import Registry from './components/Registry';
 import Header from "./components/Header"
 
-function App() {
+export default function App() {
   return (
     <div className="app-container">
       <Header />
@@ -10,5 +10,3 @@ function App() {
     </div>
   );
 }
-
-export default App;

@@ -1,11 +1,9 @@
 import React from "react"
 
-function Header() {
+export default function Header() {
     return(
         <div>
             <h1>Planetary Registry</h1>
         </div>
-    );
+    )
 }
-
-export default Header;

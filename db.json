@@ -1205,11 +1205,18 @@
       "url": "https://swapi.dev/api/planets/60/"
     },
     {
-      "id": "651f16ab-0ee7-4317-9f2f-5d7850919a03",
-      "name": "brandon",
-      "climate": "cold",
-      "terrain": "rocky",
-      "population": "1"
+      "id": "1188708a-9078-40b0-83a5-2c25a54a0dfb",
+      "name": "earth",
+      "climate": "temperate",
+      "terrain": "varies",
+      "population": "8,000,000,000"
+    },
+    {
+      "id": "e72a3f98-e272-4775-baca-2e80facc82d9",
+      "name": "mars",
+      "climate": "hot",
+      "terrain": "desert",
+      "population": "0?"
     }
   ]
 }
